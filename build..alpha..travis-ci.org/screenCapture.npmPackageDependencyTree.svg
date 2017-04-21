@@ -1,0 +1,78 @@
+<svg height="1198" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1198" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">21 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ rtc@3.4.0 </tspan>
+<tspan x="10" y="90">  ├── cog@1.1.0 </tspan>
+<tspan x="10" y="106">  ├── fdom@1.2.0 </tspan>
+<tspan x="10" y="122">  ├─┬ kgo@2.2.1 </tspan>
+<tspan x="10" y="138">  │ └── stack-slice@1.0.1 </tspan>
+<tspan x="10" y="154">  ├─┬ rtc-attach@2.0.1 </tspan>
+<tspan x="10" y="170">  │ └─┬ rtc-core@4.0.0 </tspan>
+<tspan x="10" y="186">  │   └── detect-browser@1.7.0 </tspan>
+<tspan x="10" y="202">  ├── rtc-capture@1.0.2 </tspan>
+<tspan x="10" y="218">  ├─┬ rtc-quickconnect@4.5.0 </tspan>
+<tspan x="10" y="234">  │ ├── mbus@2.0.0 </tspan>
+<tspan x="10" y="250">  │ ├─┬ rtc-pluggable-signaller@2.1.0 </tspan>
+<tspan x="10" y="266">  │ │ ├─┬ rtc-signaller@6.3.0 </tspan>
+<tspan x="10" y="282">  │ │ │ ├─┬ cuid@1.3.8 </tspan>
+<tspan x="10" y="298">  │ │ │ │ ├── browser-fingerprint@0.0.1 </tspan>
+<tspan x="10" y="314">  │ │ │ │ ├── core-js@1.2.7 </tspan>
+<tspan x="10" y="330">  │ │ │ │ └── node-fingerprint@0.0.2 </tspan>
+<tspan x="10" y="346">  │ │ │ ├── formatter@0.4.1 </tspan>
+<tspan x="10" y="362">  │ │ │ ├─┬ pull-pushable@1.1.4 </tspan>
+<tspan x="10" y="378">  │ │ │ │ └─┬ pull-stream@2.18.3 </tspan>
+<tspan x="10" y="394">  │ │ │ │   └── pull-core@1.0.0 </tspan>
+<tspan x="10" y="410">  │ │ │ ├─┬ pull-stream@2.28.4 </tspan>
+<tspan x="10" y="426">  │ │ │ │ └── pull-core@1.1.0 </tspan>
+<tspan x="10" y="442">  │ │ │ └── rtc-signal@1.3.0 </tspan>
+<tspan x="10" y="458">  │ │ └─┬ rtc-switchboard-messenger@2.0.3 </tspan>
+<tspan x="10" y="474">  │ │   ├─┬ browserify-optional@1.0.0 </tspan>
+<tspan x="10" y="490">  │ │   │ ├─┬ ast-transform@0.0.0 </tspan>
+<tspan x="10" y="506">  │ │   │ │ ├─┬ escodegen@1.2.0 </tspan>
+<tspan x="10" y="522">  │ │   │ │ │ ├── estraverse@1.5.1 </tspan>
+<tspan x="10" y="538">  │ │   │ │ │ ├── esutils@1.0.0 </tspan>
+<tspan x="10" y="554">  │ │   │ │ │ └─┬ source-map@0.1.43 </tspan>
+<tspan x="10" y="570">  │ │   │ │ │   └── amdefine@1.0.1 </tspan>
+<tspan x="10" y="586">  │ │   │ │ ├── esprima@1.0.4 </tspan>
+<tspan x="10" y="602">  │ │   │ │ └── through@2.3.8 </tspan>
+<tspan x="10" y="618">  │ │   │ ├── ast-types@0.7.8 </tspan>
+<tspan x="10" y="634">  │ │   │ └─┬ browser-resolve@1.11.2 </tspan>
+<tspan x="10" y="650">  │ │   │   └── resolve@1.1.7 </tspan>
+<tspan x="10" y="666">  │ │   ├─┬ messenger-ws@3.0.1 </tspan>
+<tspan x="10" y="682">  │ │   │ ├── pull-ws@2.3.0 </tspan>
+<tspan x="10" y="698">  │ │   │ ├─┬ ws@1.1.4 </tspan>
+<tspan x="10" y="714">  │ │   │ │ ├── options@0.0.6 </tspan>
+<tspan x="10" y="730">  │ │   │ │ └── ultron@1.0.2 </tspan>
+<tspan x="10" y="746">  │ │   │ └── wsurl@1.0.0 </tspan>
+<tspan x="10" y="762">  │ │   ├─┬ through2@2.0.3 </tspan>
+<tspan x="10" y="778">  │ │   │ ├─┬ readable-stream@2.2.9 </tspan>
+<tspan x="10" y="794">  │ │   │ │ ├── buffer-shims@1.0.0 </tspan>
+<tspan x="10" y="810">  │ │   │ │ ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="826">  │ │   │ │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="842">  │ │   │ │ ├── isarray@1.0.0 </tspan>
+<tspan x="10" y="858">  │ │   │ │ ├── process-nextick-args@1.0.7 </tspan>
+<tspan x="10" y="874">  │ │   │ │ ├── string_decoder@1.0.0 </tspan>
+<tspan x="10" y="890">  │ │   │ │ └── util-deprecate@1.0.2 </tspan>
+<tspan x="10" y="906">  │ │   │ └── xtend@4.0.1 </tspan>
+<tspan x="10" y="922">  │ │   └─┬ viralify@0.4.2 </tspan>
+<tspan x="10" y="938">  │ │     ├── ansicolors@0.3.2 </tspan>
+<tspan x="10" y="954">  │ │     ├─┬ glob@3.2.11 </tspan>
+<tspan x="10" y="970">  │ │     │ └─┬ minimatch@0.3.0 </tspan>
+<tspan x="10" y="986">  │ │     │   ├── lru-cache@2.7.3 </tspan>
+<tspan x="10" y="1002">  │ │     │   └── sigmund@1.0.1 </tspan>
+<tspan x="10" y="1018">  │ │     ├── minimist@0.0.5 </tspan>
+<tspan x="10" y="1034">  │ │     └── runnel@0.5.3 </tspan>
+<tspan x="10" y="1050">  │ └─┬ rtc-tools@5.4.1 </tspan>
+<tspan x="10" y="1066">  │   └─┬ rtc-taskqueue@2.10.0 </tspan>
+<tspan x="10" y="1082">  │     ├── es6-promise@3.3.1 </tspan>
+<tspan x="10" y="1098">  │     ├── priorityqueuejs@1.0.0 </tspan>
+<tspan x="10" y="1114">  │     ├── rtc-sdp@1.3.0 </tspan>
+<tspan x="10" y="1130">  │     ├── rtc-sdpclean@1.0.1 </tspan>
+<tspan x="10" y="1146">  │     └─┬ rtc-validator@1.2.2 </tspan>
+<tspan x="10" y="1162">  │       └── reu@1.1.1 </tspan>
+<tspan x="10" y="1178">  └── whisk@1.3.0</tspan>
+</text>
+</svg>
